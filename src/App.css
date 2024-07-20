@@ -1,0 +1,42 @@
+#details{
+  display: none;
+}
+*{
+  background-color: rgb(185, 117, 245);
+}
+div{
+  width:400px;
+  height:256px;
+  margin: 0px auto;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: black;
+}
+p,button,h1{
+  background-color: white;
+}
+button{
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(10, 9, 9);
+  background-color: rgb(242, 234, 165);
+  cursor: pointer;
+  border: none;
+}
+button:hover{
+  background-color: rgb(241, 129, 129);
+}
+h1{
+  margin-top: 20px;
+}
+img{
+  margin-top: 10px;
+  width:64px;
+  height:64px;
+}
